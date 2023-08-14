@@ -1,4 +1,4 @@
-# 3D Scene Reconstruction and Pose Estimation using Strutcture from Motion
+# 3D Scene Reconstruction and Pose Estimation - Strutcture from Motion
 
 The purpose of this project is to reconstruct 3D scene and simultaneously obtain the camera poses of a monocular camera. This is also known as Structure from Motion(SfM) 
 
